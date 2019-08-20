@@ -4,6 +4,7 @@ on:
     branches:
       - releases/*
 
+
 jobs:
   publish:
     name: Publish
